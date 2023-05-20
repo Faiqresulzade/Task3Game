@@ -3,7 +3,27 @@ guid: 875e62a65d9661a4ebd0716d1347b21b
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arissa_MAT
+    second: {fileID: 2100000, guid: eaa87b8d22899f941a5a02645788ceaf, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arissa_DIFF_diffuse
+    second: {fileID: 2800000, guid: 3b9ccb1a52bcc91458d3003bf6eaace3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arissa_NM_normal
+    second: {fileID: 2800000, guid: 8d8221a2c496df44eab20e7fde23dfc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arissa_SPEC_specular
+    second: {fileID: 2800000, guid: 50c3d984beebc444d9d79f847af598b4, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
